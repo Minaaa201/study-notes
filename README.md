@@ -1,1 +1,1 @@
-# study-notes
+# study-notesТема проекта: Изучение Linux
